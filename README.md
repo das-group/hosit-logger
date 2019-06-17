@@ -46,4 +46,4 @@ logging functions can be applied to any other database system as well.
 This project is licensed under the MIT License ([LICENSE](LICENSE)).
 
 
-[HOSIT]: https://github.com/das-th-koeln/hosit-browser
+[HOSIT]: https://github.com/das-th-koeln/hosit
